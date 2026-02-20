@@ -1,6 +1,6 @@
 # From Words to Attention: Building a Text Representation Pipeline from Scratch
 
-> **DS587 — Data Science and Society | Portfolio Piece**
+> **DS587 — Shravani Maskar | Portfolio Piece**
 
 ---
 
